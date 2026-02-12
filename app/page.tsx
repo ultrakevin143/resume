@@ -117,7 +117,7 @@ const RESUME_DATA: ResumeData = {
       description: "Ecommerce computer parts products",
       tech: ["React.js"],
       imageUrl: "shop.jpg", // Replace with project image
-      projectUrl: "https://lazappyv3.vercel.app/" // Replace with live link
+      projectUrl: "https://mysteriousq-sms-bomber.onrender.com/" // Replace with live link
     }
   ],
   certificates: [
